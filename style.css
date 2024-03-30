@@ -1,0 +1,11 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.container {
+   background-color: #e5e5fd;
+   border-bottom: 10px solid #1d1e4c;
+   min-height: 100vh;
+}
